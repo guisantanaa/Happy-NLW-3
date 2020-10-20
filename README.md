@@ -3,11 +3,11 @@
 <img src="https://github.com/LissandraRodrigues/happy_aplicacao_web/raw/main/logo.svg/" alt="logo happy" />
 </div>
 
-##Apresentação do projeto 
+<h2>Apresentação do projeto</h2> 
 
 <img src="https://github.com/santaba/Happy-NLW-3/blob/main/happy..jpg?raw=true" alt="apresentação" />
 
-##Descrição 
+<h2>Descrição</h2> 
 
 <p>Tem como objetivo conectar pessoas a lares de adoção, trazendo felicidades para todas as crianças de Guanambi.
 Essa aplicação foi desenvolvida durante o Next Level Weeek #3 um evento promovido pela <a href="https://rocketseat.com.br/"Rocketseat</a></p>
