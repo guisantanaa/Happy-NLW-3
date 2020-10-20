@@ -43,7 +43,7 @@ Essa aplicação foi desenvolvida durante o Next Level Weeek #3 um evento promov
 ```bash
 
 # Clone este projeto
-$ git clone https://github.com/LissandraRodrigues/read-teste
+$ git clone https://github.com/santaba/Happy-NLW-3.git
 
 - Backend
 
