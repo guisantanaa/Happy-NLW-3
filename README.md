@@ -10,7 +10,7 @@
 <h2>Descrição</h2> 
 
 <p>Tem como objetivo conectar pessoas a lares de adoção, trazendo felicidades para todas as crianças de Guanambi.
-Essa aplicação foi desenvolvida durante o Next Level Weeek #3 um evento promovido pela <a href="https://rocketseat.com.br/"Rocketseat</a></p>
+Essa aplicação foi desenvolvida durante o Next Level Weeek #3 um evento promovido pela <a href="https://rocketseat.com.br/">Rocketseat</a></p>
 
 <div id="tecnologia">
 
