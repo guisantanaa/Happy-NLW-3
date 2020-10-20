@@ -13,7 +13,8 @@
 Essa aplicação foi desenvolvida durante o Next Level Weeek #3 um evento promovido pela <a href="https://rocketseat.com.br/"Rocketseat</a></p>
 
 <div id="tecnologia">
-##Tecnologias 
+
+## :rocket: Tecnologias ##
 
 <p>As seguintes ferramentas foram utilizadas neste projeto:</p>
 
